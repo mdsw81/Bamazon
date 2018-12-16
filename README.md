@@ -8,4 +8,4 @@
 
 #### This second screenshot shows a prompt asking users how many units of the product they would like to buy.
 
-
+![screenshot2](https://user-images.githubusercontent.com/40145728/50048736-a503d980-0099-11e9-963a-d353b5874692.PNG)
