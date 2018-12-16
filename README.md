@@ -16,3 +16,4 @@
 
 #### This next screenshot shows the application should checking if the store has enough of the product to meet the customer's request. In this case, the customer is told there's not enogh stock and the order is not processed.
 
+![screenshot4](https://user-images.githubusercontent.com/40145728/50048934-f0b88200-009d-11e9-8c98-a44c2e128f12.PNG)
