@@ -10,6 +10,9 @@
 
 ![screenshot2](https://user-images.githubusercontent.com/40145728/50048736-a503d980-0099-11e9-963a-d353b5874692.PNG)
 
-#### This final screenshot shows that the inventory has been depleted by the number of products the user bought.
+#### This next screenshot shows that the inventory has been depleted by the number of products the user bought.
 
 ![screenshot3](https://user-images.githubusercontent.com/40145728/50048785-2fe4d400-009a-11e9-9015-7df5d25e5c02.PNG)
+
+#### This next screenshot shows the application should checking if the store has enough of the product to meet the customer's request. In this case, the customer is told there's not enogh stock and the order is not processed.
+
